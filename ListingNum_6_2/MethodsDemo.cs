@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace ListingNum_6_2
 {
     /*
-     * Листинг 6.2
+     * Листинг 6.3
      * Закрытые члены класса и перегрузка методов
      */
     
